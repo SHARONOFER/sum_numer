@@ -7,12 +7,9 @@ def add_numbers():
         total = num1 + num2
         print(f"The sum of {num1} and {num2} is: {total}")
     except ValueError:
-        print("Please enter valid numbers!")
+        print("Please enter valid umbers!")
 
 # Run the function
 if __name__ == "__main__":
     add_numbers()
 
-    --https://github.com/SHARONOFER/sun_number_ptyhon.git
-
-    git    remote    add    origin    https: // github.com /SHARONOFER/sun_number_ptyhon.git
